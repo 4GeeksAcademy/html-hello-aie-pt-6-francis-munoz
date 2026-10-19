@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750">
+  <title>Horizonte naranja</title>
+  <desc>Composición abstracta: franjas horizontales de naranja, ocre y azul profundo con un círculo solar.</desc>
+  <rect width="600" height="750" fill="#1b2a49"/>
+  <rect y="300" width="600" height="150" fill="#e07a3f"/>
+  <rect y="450" width="600" height="110" fill="#c9a24b"/>
+  <rect y="560" width="600" height="190" fill="#0f1b33"/>
+  <circle cx="360" cy="300" r="120" fill="#f3d9a4"/>
+  <rect y="300" width="600" height="14" fill="#1b2a49" opacity=".35"/>
+</svg>

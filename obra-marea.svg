@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <title>Marea</title>
+  <desc>Composición abstracta: olas de verde turquesa y azul sobre fondo claro, con una línea roja.</desc>
+  <rect width="800" height="600" fill="#f1e9da"/>
+  <path d="M0 380 C120 300 240 460 360 380 S600 300 800 380 V600 H0Z" fill="#2a9d8f"/>
+  <path d="M0 450 C140 390 260 520 400 450 S640 390 800 460 V600 H0Z" fill="#1d6a78"/>
+  <path d="M0 520 C150 480 280 570 420 520 S660 480 800 530 V600 H0Z" fill="#12394a"/>
+  <path d="M60 140 L740 220" stroke="#c0392b" stroke-width="10" stroke-linecap="round" fill="none"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <title>Raíces</title>
+  <desc>Composición abstracta: formas orgánicas en rojo, ocre y verde oliva que recuerdan a raíces sobre fondo oscuro.</desc>
+  <rect width="600" height="600" fill="#231a16"/>
+  <path d="M300 0 C310 140 220 200 240 330 S330 470 300 600" stroke="#c0392b" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <path d="M300 150 C400 190 460 260 450 380" stroke="#c9a24b" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M250 300 C160 330 120 400 140 500" stroke="#7a8b3c" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <circle cx="450" cy="400" r="28" fill="#c9a24b"/>
+  <circle cx="140" cy="520" r="24" fill="#7a8b3c"/>
+</svg>
